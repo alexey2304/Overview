@@ -23,4 +23,5 @@ CI/CD
 Используем современные технологии и архитектуру в разрабатываемых приложениях.  
   
 **Примеры UI:**         
-https://drive.google.com/drive/folders/1yLn-aHjHA_TADdW0y-1buklI1dzYk-E2?usp=sharing  
+[Google Drive...](https://drive.google.com/drive/folders/1yLn-aHjHA_TADdW0y-1buklI1dzYk-E2?usp=sharing)
+  
